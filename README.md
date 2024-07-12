@@ -3,8 +3,8 @@
 
 # Prints
 ## init, plan e apply
-![Init](<Captura de tela de 2024-07-11 19-18-53-2.png>)
-![Plan](<Captura de tela de 2024-07-11 20-35-16-1.png>)
+![Init](<https://github.com/lucasdlima11/terraform_ItTalent/blob/main/Prints/Captura%20de%20tela%20de%202024-07-11%2019-18-53-1.png>)
+![Plan](<>)
 ![Apply](<Captura de tela de 2024-07-11 20-36-21-1.png>)
 
 ## S3 BUCKET
