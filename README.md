@@ -3,10 +3,9 @@
 
 # Prints
 ## init, plan e apply
-![Init] (<Captura de tela de 2024-07-11 19-18-53-1.png>)
-![Plan] (<Captura de tela de 2024-07-11 19-18-53-1.png>)
-![Apply] (<Captura de tela de 2024-07-11 20-35-16.png>)
-![S3] (<Captura de tela de 2024-07-11 20-36-21.png>)
+![Init](<Captura de tela de 2024-07-11 19-18-53-2.png>)
+![Plan](<Captura de tela de 2024-07-11 20-35-16-1.png>)
+![Apply](<Captura de tela de 2024-07-11 20-36-21-1.png>)
 
 ## S3 BUCKET
 ![S3](<Captura de tela de 2024-07-11 20-20-38.png>) 
